@@ -1,8 +1,8 @@
 # Bright Data Web Unlocker Python 项目
 
-[![Bright Data 推广](https://github.com//bright-cn//LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
+[![Bright Data 推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
 
-<a href="https://githubbox.com//bright-cn//bright-data-web-unlocker-python-project?file=index.py" target="_blank">在 CodeSandbox 中打开</a>，使用 GitHub 登录，然后 fork 该仓库以开始修改。
+<a href="https://githubbox.com/bright-cn/bright-data-web-unlocker-python-project?file=index.py" target="_blank">在 CodeSandbox 中打开</a>，使用 GitHub 登录，然后 fork 该仓库以开始修改。
 
 ## Bright Data Web Unlocker API 示例
 
